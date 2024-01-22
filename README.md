@@ -1,8 +1,11 @@
 # AR Running Application
 
 1차(~08.20)
+
 [![Video Label](http://img.youtube.com/vi/WNS9c8TE59s/0.jpg)](https://youtu.be/WNS9c8TE59s)
+
 2차(~09.20)
+
 [![Video Label](http://img.youtube.com/vi/O8mDsIyQ21E/0.jpg)](https://youtu.be/O8mDsIyQ21E)
 
 ## 🖥️ 프로젝트 소개
