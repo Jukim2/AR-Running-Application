@@ -1,3 +1,4 @@
+관련 블로그 글 : https://jukim2.github.io/project/runderland/
 # AR Running Application
 
 1차(~08.20)
